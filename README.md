@@ -34,7 +34,7 @@ Or build and improve your existing Genkit app:
 Or analyze any trace and make changes:
 
 ```
-> The last invocation of `profanityCheckerFlow` produced a weird result, can you take a look and fix it?
+> The last invocation of `profanityCheckerFlow` produced a weird result, can you fix it?
 ```
 
 ## Contributing
