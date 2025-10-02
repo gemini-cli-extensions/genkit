@@ -34,7 +34,7 @@ Or build and improve your existing Genkit app:
 Or analyze any trace and make changes:
 
 ```
-> The last invocation of `profanityCheckerFlow` produced a weird result, can you take a look and fix it?
+> The last invocation of `profanityCheckerFlow` produced a weird result, can you fix it?
 ```
 
 ## Contributing
@@ -47,6 +47,6 @@ Or analyze any trace and make changes:
 
 See [CONTRIBUTING.md](docs/contributing.md) for more information about contributing to this project.
 
-## 📄 License
+## License
 
 This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE) file for details.
