@@ -1,13 +1,13 @@
 # Genkit Extension for Gemini CLI
 
-This package provides a standalone [Gemini CLI](https://github.com/google-gemini/gemini-cli) extension for [Genkit](https://genkit.dev).
+This package provides a standalone [Gemini CLI](https://geminicli.com/) extension for [Genkit](https://genkit.dev).
 
 This extension provides `gemini-cli` with instructions and tools for interacting with Genkit applications.
 
 ## Get started
 
 ### Prerequisites
-- [Gemini CLI](https://github.com/google-gemini/gemini-cli)
+- [Gemini CLI](https://geminicli.com/)
 - npx
 
 ### Install
