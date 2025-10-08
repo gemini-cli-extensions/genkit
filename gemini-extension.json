@@ -1,5 +1,6 @@
 {
   "name": "genkit",
+  "description": "Build full-stack AI-powered apps using Genkit.",
   "version": "1.2.0",
   "mcpServers": {
     "genkit": {
